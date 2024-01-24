@@ -1,0 +1,90 @@
+#formato {
+    width:595px;
+    height:824px;
+    margin:auto;
+    position:relative;
+  }
+#foto {
+    width: 165px;
+    height: 180px;
+    float:right;
+    border-radius: 1px;
+    border:1px solid black;
+    box-shadow:2px 3px 10px black;
+    margin-top:20px;
+    margin-right:20px;
+    filter:grayscale(10%);
+  }
+ #nome {
+    float:left; 
+    margin-top:60px;
+    margin-left:30px;
+    font-family: arial, sans-serif;
+  }
+#dados {
+    float:left; 
+    margin-top:2px;
+    margin-left:30px;
+    font-family:arial sans-serif;
+  
+  }
+
+  .dados_a {
+    text-decoration: none;
+  }
+
+  .guia_nova {
+    position:absolute;
+    margin-top:200px;
+    margin-left:30px;
+    width:505px;
+    font-family: Arial, sans-serif;
+
+  }
+
+  .guia {
+    position:absolute;
+    margin-top:335px;
+    margin-left:30px;
+    width:505px;
+    font-family: Arial, sans-serif;
+  }
+
+  .guia h1 {
+    margin:0;
+    font-size:25px;
+  }
+  .guia1 {
+    position:absolute;
+    margin-top:490px;
+    margin-left:30px;
+    width:505px;
+  }
+  .guia1 h1 {
+    margin:0;
+    font-size:25px;
+  }
+    .sep {
+    width:100%;
+    height:1px;
+    color:red;
+    background:black;
+  }
+  .dados {
+    margin:0;
+    font-family:Arial, Sans-serif;
+    font-size: 16px;
+  }
+  .guia2 {
+    position:absolute;
+    margin-top:628px;
+    margin-left:30px;
+    width:505px;
+  }
+  .guia2 h1 {
+    margin:0;
+    font-size:25px;
+  }
+
+
+
